@@ -1,0 +1,9 @@
+1;Customer [idCustomer=1, nameCustomer=Thanh Vinh, emailCustomer=vinh@vin, phoneCustomer=123, usernameCustomer=vinh, passwordCustomer=vinh123];Service [idService=1, nameService=PenHouse, priceService=15000000, statusService=on];12
+
+1;Customer [idCustomer=1, nameCustomer=Thanh Vinh, emailCustomer=vinh@vin, phoneCustomer=123, usernameCustomer=vinh, passwordCustomer=vinh123];Service [idService=3, nameService=Nomarl Room, priceService=4000000, statusService=on];12
+
+3;Customer [idCustomer=1, nameCustomer=hung, emailCustomer=asd, phoneCustomer=c, usernameCustomer=hungdv, passwordCustomer=asdasd];Service [idService=2, nameService=Vip Room, priceService=7000000, statusService=on];11
+
+1;
+Customer [idCustomer=1, nameCustomer=anh, emailCustomer=anh, phoneCustomer=1, usernameCustomer=1, passwordCustomer=1];Service [idService=1, nameService=PenHouse, priceService=15000000, statusService=on];1
+
